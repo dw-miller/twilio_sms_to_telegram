@@ -5,8 +5,8 @@
  */
 define('CHAT_ID', 0);
 //bot @username
-define('BOT_NAME', 'username');
-define('API_KEY', '');
+define('Torrentleech', '@Torrleech_bot');
+define('815373581:AAFLVAEqU4OqnRG5afrkykHw02hqtn6d4SE', '');
 
 require __DIR__ . '/vendor/autoload.php';
 use Longman\TelegramBot\Request;
